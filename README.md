@@ -20,4 +20,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/python-gui-programmierung-mit-tkinter
-[lil-thumbnail-url]: https://cdn.lynda.com/course/702518/702518-636723514681633158-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQHcfxqbNn8rwA/learning-public-crop_675_1200/B4DZaqGD.mHEAc-/0/1746610438826?e=2147483647&v=beta&t=QS0gtXF6WldMGJIUO9skKFiby5eFAPEXHcoPjI5mLXc
